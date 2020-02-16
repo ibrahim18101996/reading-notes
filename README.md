@@ -1,1 +1,18 @@
 # reading-notes
+classes| links
+------------ | -------------
+class01.md |(link)()
+Class02.md |(link)()
+class03.md | (link)()
+Class04.md | (link)()
+class05.md | (link)()
+Class06.md | (link)()
+class07.md | (link)()
+Class08.md |(link)()
+class09.md | (link)()
+Class10.md | (link)()
+class11.md | (link)()
+Class12.md | (link)()
+class13.md | (link)()
+Class14.md |(link)()
+class15.md |(link)()
