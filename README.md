@@ -2,7 +2,7 @@
 classes| links
 ------------ | -------------
 class01.md |(link)(https://ibrahim18101996.github.io/reading-notes/class01.md)
-Class02.md |(link)()
+Class02.md |(link)(https://ibrahim18101996.github.io/reading-notes/class02)
 class03.md | (link)()
 Class04.md | (link)()
 class05.md | (link)()
