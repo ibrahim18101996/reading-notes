@@ -2,9 +2,9 @@
 
 #### HTML&CSS
 * lists : we use it to mention or list some information or steps and its have three type :
-      - orderd lists "<ol><li></li></ol>"
-      - unorderd lists "<ul><li></li></ul>"
-      - defintion lists "<dl><dt><dd></dd></dt></dl>"
+      - orderd lists ("<ol><li></li></ol>")
+      - unorderd lists ("<ul><li></li></ul>")
+      - defintion lists ("<dl><dt><dd></dd></dt></dl>")
 * boxes : we use it to git a specific article or prag. or img. oor all of them inside it and we can controll its size by the hight and width .
 - we is it in (div ,tr ,hidding)and we can add a scoralbar in it and can border ,margin and padding on it .
 - there is alot of proparties for border we can use it .
