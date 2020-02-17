@@ -17,3 +17,4 @@
 #### javascript 
 
 * just tell us how to do the variable and the data types and how to use them and write in different way and change the value of variable .
+* array : use it to store multiple value in single value and it can store ten value .
