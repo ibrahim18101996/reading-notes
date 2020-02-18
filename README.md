@@ -4,7 +4,7 @@ classes| links
 class01.md |(link)(https://ibrahim18101996.github.io/reading-notes/class01.md)
 Class02.md |(link)(https://ibrahim18101996.github.io/reading-notes/class02)
 class03.md | (link)(https://ibrahim18101996.github.io/reading-notes/class03)
-Class04.md | (link)()
+Class04.md | (link)(https://ibrahim18101996.github.io/reading-notes/class04)
 class05.md | (link)()
 Class06.md | (link)()
 class07.md | (link)()
